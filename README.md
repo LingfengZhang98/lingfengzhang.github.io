@@ -1,5 +1,5 @@
 # Personal Website
 
-This is my personal website built with GitHub Pages.
+This is my personal academic website.
 
-Visit at: https://lingfengzhang.github.io
+Visit: https://lingfengzhang.github.io
